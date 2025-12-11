@@ -8,4 +8,4 @@ def test_employee():
         "Salary: 200000"
     )
 
-    assert emp_details("Queen",900,"MCA",200000) ==expected_op
+    assert emp_details("Queen",900,"MCA",200000) ==expected_output
