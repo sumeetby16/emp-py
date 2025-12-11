@@ -1,7 +1,7 @@
 from employee import emp_details
 
-def test_emp():
-    expected_op=(
+def test_employee():
+    expected_output=(
         "Employee name: Queen\n"
         "Employee id: 900\n"
         "Department: MCA\n"
